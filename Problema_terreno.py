@@ -7,7 +7,7 @@
 # bem como o valor do preço do terreno, ambos com
 # duas casas decimais, conforme exemplo. 
 
-# Exemplo 1:
+# Exemplo:
 # Digite a largura do terreno: 10.0
 # Digite o comprimento do terreno: 30.0
 # Digite o valor do metro quadrado: 200.00
