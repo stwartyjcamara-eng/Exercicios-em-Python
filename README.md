@@ -1,4 +1,4 @@
-🐍 Soluções em Python: Algoritmos e Lógica da Programação 💡
+🐍 Exercícios em Python: Algoritmos e Lógica da Programação 💡
 
 ## 🚀 Sobre o Projeto
 
