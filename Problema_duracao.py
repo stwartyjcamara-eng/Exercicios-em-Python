@@ -17,3 +17,4 @@ horas = duracao_segundos // 3600
 minutos = (duracao_segundos % 3600) // 60
 segundos = duracao_segundos % 60
 print(f'{horas}:{minutos}:{segundos}')
+#utilizei o // para divisão inteira e o % para pegar o resto da divisão
