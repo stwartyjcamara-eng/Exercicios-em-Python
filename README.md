@@ -49,3 +49,5 @@ Exercicios-em-Python/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stwarty-j-camara)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stwartyjcamara@gmail.com)
+
+> 💡 **Aulas e Teoria:** Para ver minhas anotações, resumos teóricos e códigos de apoio das aulas, acesse o repositório principal: [The-Python-Journey](https://github.com/stwartyjcamara-eng/The-Python-Journey).
